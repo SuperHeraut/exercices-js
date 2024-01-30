@@ -2,3 +2,9 @@
       - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
       - N'oubliez pas de sauvegarder pour afficher les changements.
 */
+let x = +prompt ("x?");
+let n = +prompt ("n?");
+
+let c = Math.pow(x, n);
+
+alert(c);

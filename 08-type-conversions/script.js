@@ -2,3 +2,16 @@
       - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
       - N'oubliez pas de sauvegarder pour afficher les changements.
 */
+let value = "true";
+alert(typeof value);
+
+
+let str = 123;
+alert(typeof str);
+
+
+let nb = !!1;
+alert(nb);
+
+nb = !!0;
+alert(nb);

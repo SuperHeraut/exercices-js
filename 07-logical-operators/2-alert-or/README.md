@@ -10,3 +10,4 @@ Qu'est-ce que le code ci-dessous va sortir ?
 alert( alert(1) || 2 || alert(3) );
 ```
 
+"1" puis "2"

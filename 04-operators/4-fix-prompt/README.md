@@ -11,8 +11,9 @@ Cela ne fonctionne pas correctement. La sortie dans l'exemple ci-dessous est `12
 Pourquoi ? Réparez-le. Le résultat doit être `3`.
 
 ```js run
-let a = prompt("First number?", 1);
-let b = prompt("Second number?", 2);
 
-alert(a + b); // 12
+var a = prompt("First number?", 1);
+var b = prompt("Second number?", 2);
+
+alert( a + b ); // 12
 ```

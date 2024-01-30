@@ -21,7 +21,8 @@ function checkAge(age) {
 }
 ```
 
-La fonction fonctionnera-t-elle différemment si `else` est supprimé ?
+La fonction fonctionnera-t-elle différemment si `else` est supprimé?
+    // non
 
 ```js
 function checkAge(age) {
@@ -36,3 +37,4 @@ function checkAge(age) {
 ```
 
 Existe-t-il une différence dans le comportement de ces deux variantes ?
+// pas en apparence.

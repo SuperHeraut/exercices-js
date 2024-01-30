@@ -13,3 +13,4 @@ while (i) {
   alert( i-- );
 }
 ```
+1, peut être que while(i) équivaut à while(i>0).

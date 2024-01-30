@@ -2,3 +2,10 @@
       - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
       - N'oubliez pas de sauvegarder pour afficher les changements.
 */
+let age = prompt ("votre âge");
+
+if (age >= 14 && age <= 90){
+      alert ("true");
+} else {
+      alert ("false");
+}
